@@ -186,3 +186,5 @@ docker images
 - 如何設計 CD Pipeline 部署到目標環境
 - CI Pipeline 與 CD Pipeline 的相依關係
 - 通知或報表機制
+
+- lalala
